@@ -1,0 +1,14 @@
+dnspython
+ffmpeg-python
+hachoir
+Pillow
+psutil
+pymongo
+Pyrogram
+pyromod
+python-dotenv
+requests
+TgCrypto
+gunicorn
+flask
+
